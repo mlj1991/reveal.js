@@ -2,13 +2,11 @@
 
 我是内容一
 
---
 
 ### 我是副标题一
 
 我是内容
 
---
 
 ### 我是副标题二
 
@@ -20,7 +18,6 @@ var p = {
 };
 console.log('hello world', p.name);
 
---
 
 ### 我是副标题三
 
@@ -32,21 +29,20 @@ console.log('hello world', p.name);
 - roll-in <!-- .element: class="fragment roll-in" data-fragment-index="6" -->
 - highlight-current-blue <!-- .element: class="fragment highlight-current-blue" data-fragment-index="7" -->
 
---
 
 ### 我是副标题四
 
 <!-- .slide: data-background="#007777" -->
 我是内容
 
----
+
 
 ## 我是第二页幻灯片
 
 <!-- .slide: data-transition="linear" data-background="#4d7e65" data-background-transition="slide" -->
 我是内容
 
----
+
 
 ## 我是第三页幻灯片
 
