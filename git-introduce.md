@@ -201,6 +201,7 @@ Creating a new branch.
 Creating a new Branch.
 >>>>>>> develop
 ```
+* 什么是fast-forward？
 
 
 ## git使用技巧
